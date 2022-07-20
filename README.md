@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h1 align="center">🌎 Welcome to my World 🌎</h1>
 
